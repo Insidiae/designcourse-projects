@@ -10,6 +10,9 @@ dependencies:
   astro:
     specifier: ^3.6.0
     version: 3.6.0(typescript@5.3.2)
+  autoprefixer:
+    specifier: ^10.4.16
+    version: 10.4.16(postcss@8.4.31)
   tailwindcss:
     specifier: ^3.0.24
     version: 3.3.5
